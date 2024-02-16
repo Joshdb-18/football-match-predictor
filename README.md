@@ -27,12 +27,16 @@ This Python script predicts the outcome of football matches using machine learni
 
 3. Install the required modules
 
-   ```bash
+   ```python
    pip install -r requirements.txt
    ```
 
 4. Run the code
-   ```bash
-   python predictor.py or python3 predictor.py
+   ```python
+   python predictor.py
+   ```
+   or
+   ```python
+   python3 predictor.py
    ```
 

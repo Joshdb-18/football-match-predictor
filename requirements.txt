@@ -1,8 +1,0 @@
-pandas==1.3.3
-numpy==1.21.2
-ujson==4.1.0
-scikit-learn
-colorama
-xgboost
-matplotlib
-requests

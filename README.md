@@ -13,10 +13,10 @@ This Python script predicts the outcome of football matches using machine learni
 
 ## Usage
 
-1. Clone the repository:
+1. Fork or Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/football-match-predictor.git
+   git clone https://github.com/Joshdb-18/football-match-predictor.git
    ```
 
 2. Navigate to the repository
